@@ -1,0 +1,12 @@
+name: EconHomes
+version: @version@
+main: net.propromp.econhomes.econhomes.EconHomes
+api-version: 1.13
+softdepend: [Vault]
+commands:
+  home:
+    description: "teleport to the home"
+  sethome:
+    description: "set home"
+  delhome:
+    description: "delete the home"

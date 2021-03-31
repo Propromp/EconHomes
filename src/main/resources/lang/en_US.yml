@@ -1,0 +1,6 @@
+sethome.1: "Home %val1% is set to %val2%."
+not_found: "home not found"
+home.1: "Teleported to Home %val1%"
+delhome.1: "Successfully deleted the home %val1%"
+no_money: "You need %val1% to perform this command"
+toomuchhome: "The number of homes has reached the limit"
